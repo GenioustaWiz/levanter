@@ -88,6 +88,11 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
    Create a `config.env` file and add the following lines:
 
    ```sh
+   DATABASE_URL=
+   RENDER_API_KEY=
+   RENDER_NAME=
+   SESSION_ID=
+   PORT=
    SESSION_ID=your_session_id_here
    PREFIX=.
    STICKER_PACKNAME=LyFE
